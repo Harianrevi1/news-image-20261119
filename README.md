@@ -1,8 +1,8 @@
 # The World Today — Thursday 19 November 2026
 
-[![Competition](https://make.fun/bounty/news-image-20261119/competition.svg)](https://make.fun/bounty/news-image-20261119)
-[![Rank](https://make.fun/bounty/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
-[![Reward](https://make.fun/bounty/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+[![Competition](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![Rank](https://make.fun/badge/news-image-20261119/Harianrevi1/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![Reward](https://make.fun/badge/news-image-20261119/Harianrevi1/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
 One picture that sums up Thursday 19 November 2026: a vintage newspaper
 front page, drawn as an illustrated broadsheet, carrying the five stories
